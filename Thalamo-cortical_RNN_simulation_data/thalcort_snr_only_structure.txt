@@ -1,0 +1,3 @@
+n_thal=15
+n_cort=35
+n_total=50
