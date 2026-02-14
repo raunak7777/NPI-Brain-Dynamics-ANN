@@ -1,0 +1,6 @@
+n_thal=15
+n_cort=35
+n_total=50
+n_thal_merged=8
+n_cort_merged=35
+n_merged_total=43
